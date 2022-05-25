@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/DCI/Projekt_1/rezept-projekt-Nicki-G1/inage/logo/Japan2.jpg);
+}
+
+#top {
+    text-align: center;
+    background-color:rgb(75, 74, 74) ;
+}
+#logotrie{
+    width: 100%;
+    height: 300px;
+}
+
+#logo-name {
+font-size: 38px;
+padding: 10px;
+color: white;
+
+font-weight: bold;
+margin: 10px;
+}
+
+#navigation a {
+    color: white;
+    padding: 10px;
+    background-color: rgb(75, 74, 74);
+}
+
+#navigation a:hover {
+    color: rgba(226, 12, 155, 0.671);
+    font-size: 25px;
+}
+
+.carousel-inner {
+  padding-top: 10px;
+}
+
+#image img {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+h2, h5{
+    font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+}
+
+.d-block {
+    width: 100%;
+    height: 500px;
+}
+
+#footer {
+    text-align: center;
+    color: gray;
+    padding: 20px;
+}
+
+#a1 {
+    color: black;
+}
+
+fieldset{
+  font-weight: inherit;
+}
+.personal-data label {
+  display: block;
+}
+
+.personal-data input {
+  padding: 0.3rem;
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  line-height: 1.8;
+}
+
+.a2 {
+  display: block;
+  padding: 0.3rem;
+  width: 100%;
+}
+
+.a3 {
+  font-weight: normal;
+}
+
+button {
+  background-color: rgb(75, 74, 74);
+  color: white;
+  border-radius: 15px;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  padding-left : 15px;
+  padding-right: 15px;
+  border-color: rgb(75, 74, 74);
+}
+
+#HTMLCSS {
+  font-weight: normal;
+}
+
+#Template {
+  font-weight: normal;
+ 
+}
